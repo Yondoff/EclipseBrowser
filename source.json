@@ -10,9 +10,7 @@
       "version": "1.0",
       "versionDate": "2026-02-01",
       "description": "EclipseBrowser is a privacy-first experimental iOS browser. No history, no cookies, no cache. Sessions leave no trace.",
-      "localizedDescription": {
-        "en": "A session-only privacy browser for iOS. No history, no cookies, no cache. Everything is wiped when you close the app."
-      },
+      "localizedDescription": "A session-only privacy browser for iOS. No history, no cookies, no cache. Everything is wiped when you close the app.",
       "iconURL": "https://raw.githubusercontent.com/Yondoff/EclipseBrowser/main/icon.png"
     }
   ]
