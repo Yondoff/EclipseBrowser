@@ -1,0 +1,16 @@
+{
+  "name": "Eclipse Source",
+  "identifier": "dev.eclipse.source",
+  "apps": [
+    {
+      "name": "EclipseBrowser",
+      "bundleIdentifier": "dev.eclipse.browser",
+      "developerName": "Eclipse Labs",
+      "subtitle": "Session-only privacy browser for iOS",
+      "version": "1.0",
+      "versionDate": "2026-02-01",
+      "description": "EclipseBrowser is a privacy-first experimental iOS browser. No history, no cookies, no cache. Sessions leave no trace.",
+      "iconURL": "https://raw.githubusercontent.com/Yondoff/EclipseBrowser/main/icon.png"
+    }
+  ]
+}
